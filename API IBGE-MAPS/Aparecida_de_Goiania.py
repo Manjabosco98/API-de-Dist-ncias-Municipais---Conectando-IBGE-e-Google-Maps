@@ -3,7 +3,7 @@ import googlemaps
 import pandas as pd
 
 # Chave da API do Google Maps
-google_maps_api_key = 'AIzaSyDG8wSs1P1X6Dp8FgEGlGHK0YXEEzkJEDQ'
+google_maps_api_key = 'chave_key'
 
 # Função para obter todos os municípios do Brasil usando a API do IBGE
 def obter_municipios():
